@@ -1,0 +1,1 @@
+For firmware propper work controller should be programmed with 0xE4 fuse low value. 

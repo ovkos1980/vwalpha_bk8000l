@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>vwalpha/Release</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20767-25241</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>vwalpha</ExpandedNode><ExpandedNode>vwalpha/headers</ExpandedNode><ExpandedNode>vwalpha/sources</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-6192-25923</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.cpp</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>166</SelStart><SelEnd>166</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\defs.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>386</SelStart><SelEnd>386</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\timers\timers.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>802</SelStart><SelEnd>802</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\timers\timers.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>1230</SelStart><SelEnd>1241</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\kbd\kbd.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>392</SelStart><SelEnd>392</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\kbd\kbd.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>134</SelStart><SelEnd>134</SelEnd></Tab><ActiveTab>5</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04db66d0><key>iaridepm.enu1</key></Toolbar-04db66d0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>454</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>313972</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>715856</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>138</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>140</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>219780</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>313972</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
